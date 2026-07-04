@@ -139,6 +139,19 @@ Use this structure:
 
 Embed the useful exhibits and tables rather than referring the reader elsewhere. Ensure all numbers match the latest model version. Render the DOCX, inspect every page for clipping, broken tables, poor chart resolution, orphan headings, and citation problems, then revise until clean.
 
+## Deliverables
+
+The project should contain only the artifacts justified by completed stages:
+
+- 01-research/[TICKER]-company-research.md
+- 02-model/[TICKER]-financial-model.xlsx
+- 03-valuation/[TICKER]-valuation.md plus a versioned workbook with valuation tabs
+- 04-exhibits/chart-index.md and verified chart files
+- 05-report/[TICKER]-initiation-report.docx
+- status.md, source ledger, and assumptions log
+
+Do not create empty stage folders or placeholder deliverables for stages that have not passed their gates.
+
 ## Completion record
 
 After each stage, update:
